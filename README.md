@@ -12,9 +12,11 @@ I haven't done it yet and will update more and more. Thanks for taking a look !
 
 Contributions are welcome. Just contact my email or any social media accounts I have mentioned in profile. Thanks!
 
-## C++:
+## Context:
+
+### C++:
 1. [Template](https://github.com/teddythinh/Competitive-Programming-Template/blob/main/C%2B%2BTemplate.cpp)
 2. [Stringstream](https://github.com/teddythinh/Competitive-Programming-Template/blob/main/stringstream.cpp)
 3. [Big integer handling](https://github.com/teddythinh/Competitive-Programming-Template/blob/main/BigInt.cpp)
-## Python
+### Python:
 1. [Template](https://github.com/teddythinh/Competitive-Programming-Template/blob/main/stringstream.cpp)
